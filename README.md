@@ -8,8 +8,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/saumya-tripathi555/">LinkedIn</a> ·
   <a href="mailto:saumya.tri111@gmail.com">Email</a> ·
-  <a href="https://leetcode.com/u/colecantcode/">LeetCode</a> ·
-  <a href="https://codeforces.com/profile/pvr04">Codeforces</a>
+
 </p>
 
 ## What I work with
