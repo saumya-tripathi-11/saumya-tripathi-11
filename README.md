@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saumya-tripathi555/">LinkedIn</a> ·
-  <a href="mailto:saumya.tri111@gmail.com">Email</a> ·
+  <a href="mailto:saumya.tri111@gmail.com">Email</a> 
 
 </p>
 
@@ -32,7 +32,7 @@ I also work with REST APIs, vector search, retrieval-augmented generation, and d
 ## Beyond projects
 
 - **Open source:** Contributed UI components and a checkout flow, fixed a MERN dashboard bug, and reviewed contributor pull requests during SSoC26.
-- **Problem solving:** Guardian on [LeetCode](https://leetcode.com/u/colecantcode/) and Expert on [Codeforces](https://codeforces.com/profile/pvr04), with 500+ problems solved on each platform.
+
 - **Community:** Helped organize and lead hands-on web development sessions with GDG Web Wing.
 
 <details>
